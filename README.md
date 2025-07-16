@@ -15,7 +15,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 <ul>
-  <li>🎓 2nd Year Diploma student in Computer Engineering</li>
+  <li>🎓 3rd Year Diploma student in Computer Engineering</li>
   <li>🧠 Focused on Python, Machine Learning, and Full Stack basics (HTML, CSS, JS)</li>
   <li>🚧 Building real-world projects to learn and improve — currently working on:</li>
   <ul>
