@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello!;नमस्ते!;I'm+Nitesh+Kumavat;Welcome+to+my+GitHub" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello!;I'm+Nitesh+Kumavat;Welcome+to+my+GitHub" />
   </p>
 </h1>
 
