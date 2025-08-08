@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello!;नमस्ते!;I'm+Nitesh+Kumavat;Welcome+to+my+GitHub" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello!;I'm+Nitesh+Kumavat;Welcome+to+my+GitHub" />
   </p>
 </h1>
 
@@ -45,7 +45,7 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git,github,figma,cpp,java,tkinter,streamlit,expressjs,bootstrap,mongodb,postgresql,flask" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git,github,figma,cpp,java,tkinter,expressjs,bootstrap,mongodb,postgresql,flask" />
 </p>
 
 ---
