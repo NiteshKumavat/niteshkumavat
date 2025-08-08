@@ -45,7 +45,7 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git,github,figma,cpp,java,tkinter,expressjs,bootstrap,mongodb,postgresql,flask" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git,github,figma,cpp,java,expressjs,bootstrap,mongodb,postgresql,flask" />
 </p>
 
 ---
