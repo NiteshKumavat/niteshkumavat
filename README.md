@@ -59,8 +59,8 @@
 </p>
 
 <!-- Optional Streak Stats -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumavat&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p> -->
+</p> 
 
 ---
