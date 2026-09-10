@@ -124,10 +124,8 @@ Every project I build is an opportunity to understand something deeper.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiteshKumavat&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Nitesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKumavat&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
+[![Nitesh's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=NiteshKumavat&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NiteshKumavat&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -146,7 +144,7 @@ Every project I build is an opportunity to understand something deeper.
 
 I'm always interested in **learning, collaborating, building projects, and discussing technology**.
 
-📧 **Email:** [niteshkumavat@gmail.com](mailto:niteshkumavat@gmail.com)
+📧 **Email:** [niteshkumavat32@gmail.com](mailto:niteshkumavat@gmail.com)
 
 💻 **GitHub:** [@NiteshKumavat](https://github.com/NiteshKumavat)
 
