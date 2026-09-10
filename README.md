@@ -1,64 +1,154 @@
-<!-- Visitor Badge (optional) -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=niteshkumavat.niteshkumavat&color=blue&title=Visitors" alt="Visitor badge"/>
-</p> 
+# 👋 Hi, I'm Nitesh Kumavat
 
-<h1 align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hello!;I'm+Nitesh+Kumavat;Welcome+to+my+GitHub" />
-  </p>
-</h1>
+### 💻 Computer Engineering Student | Full-Stack Developer | Problem Solver
 
-<h3 align="center">🚀 Polytechnic Student | Passionate about Python, Machine Learning & Creative Projects</h3>
+> 🚀 **Keep pushing commits, keep pushing limits.**
+
+I'm a Computer Engineering student who enjoys **building projects, solving problems, and learning technologies by actually using them**.
+
+My development journey has taken me across **Python, Java, JavaScript, and Full-Stack Web Development**, and I'm currently strengthening my foundations in **Data Structures, OOP, DBMS, and software development** while exploring modern technologies.
 
 ---
 
-<h3 align="left">👨‍💻 About Me</h3>
-<ul>
-  <li>🎓 3rd Year Diploma student in Computer Engineering</li>
-  <li>🧠 Focused on Python, Machine Learning, and Full Stack basics (HTML, CSS, JS)</li>
-  <li>🚧 Building real-world projects to learn and improve — currently working on:</li>
-  <ul>
-    <li>📚 <strong>Study With Us</strong> – a community-focused learning platform</li>
-    <li>🏁 ML Hackathon project – Deep Learning for image classification</li>
-    <li>🌦️ Weather App with Tkinter + API integration</li>
-  </ul>
-  <li>📘 Exploring JavaScript frontend, React basics, and Git/GitHub workflows</li>
-</ul>
+## 👨‍💻 About Me
+
+* 🎓 Computer Engineering student
+* 💻 Interested in **Full-Stack Development & Software Engineering**
+* 🐍 Experienced with **Python**
+* ☕ Learning and building projects with **Java & OOP**
+* 🌐 Building web applications using **HTML, CSS, JavaScript & MERN**
+* 🗄️ Learning **DBMS, SQL & database design**
+* 🤖 Exploring **AI, Machine Learning & Data Science**
+* 🧠 Enjoy solving programming and problem-solving challenges
+* 🚀 Believe in **learning by building real projects**
 
 ---
 
-<h3 align="left">📬 Connect with Me</h3>
-<p align="left">
-  <a href="mailto:niteshkumavat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/niteshkumavat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/niteshkumavat" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mysql,git,github,figma,cpp,java,expressjs,bootstrap,mongodb,postgresql,flask,typescript" />
-</p>
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on while learning and improving my development skills:
+
+### 🐶 A-Dog Home Page
+
+A responsive web project focused on practicing **HTML and CSS**, layout design, and frontend development.
+
+🔗 [View Project](https://github.com/NiteshKumavat/A-dog-Home-page)
+
+### 🎮 Break-Out Game
+
+A browser-based game created to practice **JavaScript programming, game logic, and DOM/canvas concepts**.
+
+🔗 [View Project](https://github.com/NiteshKumavat/Break-Out-game)
+
+### 🏀 Catch Ball
+
+A small interactive game project built while exploring programming logic and user interaction.
+
+🔗 [View Project](https://github.com/NiteshKumavat/Catch-Ball)
+
+### 📚 Assignments
+
+A collection of my academic programming work, experiments, and practice implementations.
+
+🔗 [View Repository](https://github.com/NiteshKumavat/Assignments)
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+## 🏆 Achievements
+
+* 🥇 **Winner – Major Project, Technoton 2026**
+* 🏆 **Winner – CODEX Problem Solving Event**
+* 💻 Completed a **100 Days of Python** learning journey
+* 🌐 Completed a **Full-Stack MERN Development** course
+* 🚀 Built multiple projects while learning different programming languages and technologies
+
+---
+
+## 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Object-Oriented Programming
+        ↓
+DBMS & SQL
+        ↓
+Full-Stack Development
+        ↓
+AI & Machine Learning
+```
+
+I'm currently focusing on building stronger fundamentals rather than limiting myself to a single technology.
+
+---
+
+## 🎯 My Development Philosophy
+
+> **Don't just learn a technology — build something with it.**
+
+I believe the best way to understand programming is to combine **theory + implementation + problem solving + projects**.
+
+Every project I build is an opportunity to understand something deeper.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshkumavat&show_icons=true&theme=dracula" alt="Nitesh's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkumavat&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiteshKumavat&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKumavat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<!-- Optional Streak Stats -->
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteshkumavat&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p> 
+  <img src="https://streak-stats.demolab.com?user=NiteshKumavat&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, building projects, and discussing technology**.
+
+📧 **Email:** [niteshkumavat@gmail.com](mailto:niteshkumavat@gmail.com)
+
+💻 **GitHub:** [@NiteshKumavat](https://github.com/NiteshKumavat)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep pushing. 🚀**
