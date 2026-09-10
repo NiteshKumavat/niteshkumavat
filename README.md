@@ -125,8 +125,14 @@ Every project I build is an opportunity to understand something deeper.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiteshKumavat&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKumavat&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NiteshKumavat&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshKumavat&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -134,7 +140,10 @@ Every project I build is an opportunity to understand something deeper.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NiteshKumavat&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=NiteshKumavat&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
