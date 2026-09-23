@@ -104,8 +104,7 @@ Object-Oriented Programming
 DBMS & SQL
         ↓
 Full-Stack Development
-        ↓
-AI & Machine Learning
+
 ```
 
 I'm currently focusing on building stronger fundamentals rather than limiting myself to a single technology.
