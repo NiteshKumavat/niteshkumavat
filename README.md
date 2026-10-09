@@ -87,7 +87,7 @@ A collection of my academic programming work, experiments, and practice implemen
 
 ## 🏆 Achievements
 
-* 🥇 **Winner – Major Project, Technoton 2026**
+* 🥇 **Winner – Major Project, Technofest 2026**
 * 🏆 **Winner – CODEX Problem Solving Event**
 * 💻 Completed a **100 Days of Python** learning journey
 * 🌐 Completed a **Full-Stack MERN Development** course
